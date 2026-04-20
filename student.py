@@ -188,8 +188,7 @@ class Student:
               
       
 
-               #right side label frame
-
+        #right side label frame
         # Right_frame=LabelFrame(main_frame,bd=2,bg="white",relief=RIDGE,text="Student Details",font=("times new roman",12,"bold"),bg='white') 
         # Right_frame.place(x=780,y=10,width=660,height=580)            
 
